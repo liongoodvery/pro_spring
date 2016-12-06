@@ -13,4 +13,5 @@
           base-package="com.apress.prospring4.ch3.annotation"/>
 
     <bean id="message" class="java.lang.String" c:_0="This is a configurable message"/>
+    <bean id="name" class="java.lang.String" c:_0="This is a configurable message"/>
 </beans>
